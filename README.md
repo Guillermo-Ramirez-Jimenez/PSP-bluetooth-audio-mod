@@ -1,2 +1,2 @@
 # PSP-bluetooth-audio-mod
-Schematics for adding BT support to the PSP
+Schematics in KiCad for adding BT support to the PSP
